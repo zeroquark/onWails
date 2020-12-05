@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="976cd72c-48d6-4490-b33f-664e6cbdf710" name="Default Changelist" comment="" />
+    <list default="true" id="976cd72c-48d6-4490-b33f-664e6cbdf710" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cpustats/pkg/sys/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpustats/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/cpustats/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpustats/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cpustats/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

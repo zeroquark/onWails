@@ -3,7 +3,7 @@ package main
 import (
   "github.com/leaanthony/mewn"
   "github.com/wailsapp/wails"
-  ""
+  "github.com/zeroquark/onWails/cpustats/pkg/sys"
 )
 
 func basic() string {
@@ -13,7 +13,9 @@ func basic() string {
 func main() {
 
   js := mewn.String("./frontend/dist/app.js")
-  css := mewn.String("./frontend/dist/app.css")
+  css := mewn.String("./frontend/dist/app.css"
+
+  stats := &sys.Stats{}
 
   app := wails.CreateApp(&wails.AppConfig{
     Width:  1024,
@@ -23,6 +25,6 @@ func main() {
     CSS:    css,
     Colour: "#131313",
   })
-  app.Bind(basic)
+  app.Bind(stats)
   app.Run()
 }
