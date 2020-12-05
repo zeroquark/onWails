@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="976cd72c-48d6-4490-b33f-664e6cbdf710" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cpustats/pkg/sys/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpustats/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/cpustats/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpustats/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cpustats/main.go" afterDir="false" />
+    <list default="true" id="976cd72c-48d6-4490-b33f-664e6cbdf710" name="Default Changelist" comment="2">
+      <change beforePath="$PROJECT_DIR$/cpustats/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/cpustats/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,10 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>

@@ -1,4 +1,4 @@
-module cpustats
+module "github.com/zeroquark/onWails/cpustats"
 
 go 1.15
 
